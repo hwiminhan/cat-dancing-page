@@ -1,0 +1,57 @@
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- 몸통 -->
+  <ellipse cx="100" cy="120" rx="45" ry="55" fill="#FF9F1C" stroke="#2C2C2C" stroke-width="2"/>
+
+  <!-- 머리 -->
+  <circle cx="100" cy="70" r="35" fill="#FF9F1C" stroke="#2C2C2C" stroke-width="2"/>
+
+  <!-- 왼쪽 귀 -->
+  <path d="M 75 45 L 65 20 L 85 40 Z" fill="#FF9F1C" stroke="#2C2C2C" stroke-width="2"/>
+  <path d="M 75 45 L 70 30 L 80 42 Z" fill="#FFD8A8"/>
+
+  <!-- 오른쪽 귀 -->
+  <path d="M 125 45 L 135 20 L 115 40 Z" fill="#FF9F1C" stroke="#2C2C2C" stroke-width="2"/>
+  <path d="M 125 45 L 130 30 L 120 42 Z" fill="#FFD8A8"/>
+
+  <!-- 왼쪽 눈 -->
+  <ellipse cx="88" cy="68" rx="5" ry="8" fill="#2C2C2C"/>
+
+  <!-- 오른쪽 눈 -->
+  <ellipse cx="112" cy="68" rx="5" ry="8" fill="#2C2C2C"/>
+
+  <!-- 코 -->
+  <path d="M 100 78 L 95 82 L 100 85 L 105 82 Z" fill="#E07A5F"/>
+
+  <!-- 입 -->
+  <path d="M 100 85 Q 95 88 90 85" stroke="#2C2C2C" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <path d="M 100 85 Q 105 88 110 85" stroke="#2C2C2C" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- 왼쪽 앞발 -->
+  <ellipse cx="75" cy="150" rx="12" ry="30" fill="#FF9F1C" stroke="#2C2C2C" stroke-width="2"/>
+
+  <!-- 오른쪽 앞발 -->
+  <ellipse cx="125" cy="150" rx="12" ry="30" fill="#FF9F1C" stroke="#2C2C2C" stroke-width="2"/>
+
+  <!-- 왼쪽 뒷발 -->
+  <ellipse cx="70" cy="165" rx="10" ry="18" fill="#FF9F1C" stroke="#2C2C2C" stroke-width="2"/>
+
+  <!-- 오른쪽 뒷발 -->
+  <ellipse cx="130" cy="165" rx="10" ry="18" fill="#FF9F1C" stroke="#2C2C2C" stroke-width="2"/>
+
+  <!-- 꼬리 -->
+  <path d="M 140 120 Q 160 100 165 75 Q 168 60 160 55" stroke="#FF9F1C" stroke-width="15" stroke-linecap="round" fill="none"/>
+  <path d="M 140 120 Q 160 100 165 75 Q 168 60 160 55" stroke="#2C2C2C" stroke-width="2" stroke-linecap="round" fill="none"/>
+
+  <!-- 배 -->
+  <ellipse cx="100" cy="130" rx="30" ry="35" fill="#FFD8A8" opacity="0.7"/>
+
+  <!-- 수염 왼쪽 -->
+  <line x1="75" y1="75" x2="50" y2="72" stroke="#2C2C2C" stroke-width="1.5"/>
+  <line x1="75" y1="78" x2="50" y2="78" stroke="#2C2C2C" stroke-width="1.5"/>
+  <line x1="75" y1="81" x2="50" y2="84" stroke="#2C2C2C" stroke-width="1.5"/>
+
+  <!-- 수염 오른쪽 -->
+  <line x1="125" y1="75" x2="150" y2="72" stroke="#2C2C2C" stroke-width="1.5"/>
+  <line x1="125" y1="78" x2="150" y2="78" stroke="#2C2C2C" stroke-width="1.5"/>
+  <line x1="125" y1="81" x2="150" y2="84" stroke="#2C2C2C" stroke-width="1.5"/>
+</svg>
